@@ -1,0 +1,296 @@
+BRG_001.png | true: Bridge | predicted: Bridge | confidence: 0.6605
+BRG_002.png | true: Bridge | predicted: LER | confidence: 0.5428
+BRG_003.png | true: Bridge | predicted: Bridge | confidence: 0.4740
+BRG_004.png | true: Bridge | predicted: Bridge | confidence: 0.4035
+BRG_005.png | true: Bridge | predicted: Bridge | confidence: 0.6419
+BRG_006.png | true: Bridge | predicted: Clean | confidence: 0.5231
+BRG_007.png | true: Bridge | predicted: LER | confidence: 0.2197
+BRG_008.png | true: Bridge | predicted: Surface damage | confidence: 0.2474
+BRG_009.png | true: Bridge | predicted: Bridge | confidence: 0.2910
+BRG_010.png | true: Bridge | predicted: LER | confidence: 0.2458
+BRG_011.png | true: Bridge | predicted: Bridge | confidence: 0.4783
+BRG_012.png | true: Bridge | predicted: Bridge | confidence: 0.6253
+BRG_013.png | true: Bridge | predicted: Bridge | confidence: 0.4400
+BRG_014.png | true: Bridge | predicted: Bridge | confidence: 0.4340
+BRG_015.png | true: Bridge | predicted: LER | confidence: 0.6721
+BRG_016.png | true: Bridge | predicted: Bridge | confidence: 0.5600
+BRG_017.png | true: Bridge | predicted: LER | confidence: 0.5697
+BRG_018.png | true: Bridge | predicted: Bridge | confidence: 0.3309
+BRG_019.png | true: Bridge | predicted: Clean | confidence: 0.5363
+BRG_020.png | true: Bridge | predicted: Via | confidence: 0.2770
+BRG_021.png | true: Bridge | predicted: LER | confidence: 0.8761
+BRG_022.png | true: Bridge | predicted: Bridge | confidence: 0.3620
+BRG_023.png | true: Bridge | predicted: CMP | confidence: 0.4725
+BRG_024.png | true: Bridge | predicted: Clean | confidence: 0.5219
+BRG_025.png | true: Bridge | predicted: Clean | confidence: 0.4140
+BRG_026.png | true: Bridge | predicted: Opens | confidence: 0.7186
+BRG_027.png | true: Bridge | predicted: Bridge | confidence: 0.4051
+BRG_028.png | true: Bridge | predicted: Bridge | confidence: 0.6741
+BRG_029.png | true: Bridge | predicted: Clean | confidence: 0.3691
+BRG_030.png | true: Bridge | predicted: LER | confidence: 0.8384
+BRG_031.png | true: Bridge | predicted: LER | confidence: 0.2728
+BRG_032.png | true: Bridge | predicted: Bridge | confidence: 0.3444
+CLN_001.png | true: Clean | predicted: CMP | confidence: 0.4849
+CLN_002.png | true: Clean | predicted: Opens | confidence: 0.4205
+CLN_003.png | true: Clean | predicted: Other | confidence: 0.2851
+CLN_004.png | true: Clean | predicted: LER | confidence: 0.7914
+CLN_005.png | true: Clean | predicted: CMP | confidence: 0.4714
+CLN_006.png | true: Clean | predicted: LER | confidence: 0.4991
+CLN_007.png | true: Clean | predicted: CMP | confidence: 0.9429
+CLN_008.png | true: Clean | predicted: CMP | confidence: 0.9594
+CLN_009.png | true: Clean | predicted: Bridge | confidence: 0.3080
+CLN_010.png | true: Clean | predicted: Via | confidence: 0.1868
+CLN_011.png | true: Clean | predicted: CMP | confidence: 0.2324
+CLN_012.png | true: Clean | predicted: Surface damage | confidence: 0.2228
+CLN_013.png | true: Clean | predicted: Clean | confidence: 0.5191
+CLN_014.png | true: Clean | predicted: LER | confidence: 0.7736
+CLN_015.png | true: Clean | predicted: LER | confidence: 0.7975
+CLN_016.png | true: Clean | predicted: Other | confidence: 0.4686
+CLN_017.png | true: Clean | predicted: LER | confidence: 0.6140
+CLN_018.png | true: Clean | predicted: Opens | confidence: 0.3411
+CLN_019.png | true: Clean | predicted: LER | confidence: 0.7131
+CLN_020.png | true: Clean | predicted: LER | confidence: 0.3896
+CLN_021.png | true: Clean | predicted: Other | confidence: 0.3984
+CLN_022.png | true: Clean | predicted: LER | confidence: 0.7891
+CLN_023.png | true: Clean | predicted: Opens | confidence: 0.1784
+CLN_024.png | true: Clean | predicted: Bridge | confidence: 0.2909
+CLN_025.png | true: Clean | predicted: LER | confidence: 0.3431
+CLN_026.png | true: Clean | predicted: Opens | confidence: 0.3011
+CLN_027.png | true: Clean | predicted: Via | confidence: 0.7549
+CLN_028.png | true: Clean | predicted: CMP | confidence: 0.2467
+CLN_029.png | true: Clean | predicted: CMP | confidence: 0.4253
+CLN_030.png | true: Clean | predicted: Via | confidence: 0.5594
+CLN_031.png | true: Clean | predicted: Contamination | confidence: 0.3228
+CLN_032.png | true: Clean | predicted: Opens | confidence: 0.3373
+CLN_033.png | true: Clean | predicted: Opens | confidence: 0.3726
+CMP_001.png | true: CMP | predicted: CMP | confidence: 0.9662
+CMP_002.png | true: CMP | predicted: CMP | confidence: 0.9684
+CMP_003.png | true: CMP | predicted: LER | confidence: 0.5360
+CMP_004.png | true: CMP | predicted: Bridge | confidence: 0.2987
+CMP_005.png | true: CMP | predicted: Surface damage | confidence: 0.3118
+CMP_006.png | true: CMP | predicted: Surface damage | confidence: 0.7012
+CMP_007.png | true: CMP | predicted: LER | confidence: 0.9124
+CMP_008.png | true: CMP | predicted: CMP | confidence: 0.6666
+CMP_009.png | true: CMP | predicted: CMP | confidence: 0.9564
+CMP_010.png | true: CMP | predicted: CMP | confidence: 0.3976
+CMP_011.png | true: CMP | predicted: CMP | confidence: 0.9046
+CMP_012.png | true: CMP | predicted: CMP | confidence: 0.9486
+CMP_013.png | true: CMP | predicted: Bridge | confidence: 0.2323
+CMP_014.png | true: CMP | predicted: CMP | confidence: 0.3435
+CMP_015.png | true: CMP | predicted: CMP | confidence: 0.8685
+CMP_016.png | true: CMP | predicted: CMP | confidence: 0.9297
+CMP_017.png | true: CMP | predicted: CMP | confidence: 0.8978
+CMP_018.png | true: CMP | predicted: Surface damage | confidence: 0.2995
+CMP_019.png | true: CMP | predicted: Other | confidence: 0.3740
+CMP_020.png | true: CMP | predicted: CMP | confidence: 0.3693
+CMP_021.png | true: CMP | predicted: CMP | confidence: 0.6758
+CMP_022.png | true: CMP | predicted: Via | confidence: 0.3370
+CMP_023.png | true: CMP | predicted: Bridge | confidence: 0.6679
+CMP_024.png | true: CMP | predicted: Residue | confidence: 0.3235
+CMP_025.png | true: CMP | predicted: CMP | confidence: 0.4580
+CMP_026.png | true: CMP | predicted: CMP | confidence: 0.8695
+CMP_027.png | true: CMP | predicted: Via | confidence: 0.2514
+CMP_028.png | true: CMP | predicted: CMP | confidence: 0.6598
+CMP_029.png | true: CMP | predicted: Surface damage | confidence: 0.3211
+CMP_030.png | true: CMP | predicted: LER | confidence: 0.5488
+CRK_001.png | true: Surface damage | predicted: Surface damage | confidence: 0.4003
+CRK_002.png | true: Surface damage | predicted: Surface damage | confidence: 0.3857
+CRK_003.png | true: Surface damage | predicted: Surface damage | confidence: 0.7372
+CRK_004.png | true: Surface damage | predicted: Surface damage | confidence: 0.3668
+CRK_005.png | true: Surface damage | predicted: Surface damage | confidence: 0.5816
+CRK_006.png | true: Surface damage | predicted: Residue | confidence: 0.8586
+CRK_007.png | true: Surface damage | predicted: Surface damage | confidence: 0.5163
+CRK_008.png | true: Surface damage | predicted: Other | confidence: 0.2071
+CRK_009.png | true: Surface damage | predicted: Residue | confidence: 0.4166
+CRK_010.png | true: Surface damage | predicted: Surface damage | confidence: 0.6598
+CRK_011.png | true: Surface damage | predicted: Via | confidence: 0.4581
+CRK_012.png | true: Surface damage | predicted: Via | confidence: 0.3157
+CRK_013.png | true: Surface damage | predicted: Residue | confidence: 0.2170
+CRK_014.png | true: Surface damage | predicted: Surface damage | confidence: 0.3545
+CRK_015.png | true: Surface damage | predicted: Surface damage | confidence: 0.8404
+CRK_016.png | true: Surface damage | predicted: Residue | confidence: 0.3886
+CRK_017.png | true: Surface damage | predicted: Contamination | confidence: 0.3255
+CRK_018.png | true: Surface damage | predicted: Residue | confidence: 0.3403
+CRK_019.png | true: Surface damage | predicted: Residue | confidence: 0.2709
+CRK_020.png | true: Surface damage | predicted: LER | confidence: 0.7886
+CRK_021.png | true: Surface damage | predicted: Surface damage | confidence: 0.4661
+CRK_022.png | true: Surface damage | predicted: Surface damage | confidence: 0.5287
+CRK_023.png | true: Surface damage | predicted: Surface damage | confidence: 0.4515
+CRK_024.png | true: Surface damage | predicted: Surface damage | confidence: 0.3817
+CRK_025.png | true: Surface damage | predicted: CMP | confidence: 0.7980
+CRK_026.png | true: Surface damage | predicted: Via | confidence: 0.6396
+CRK_027.png | true: Surface damage | predicted: Other | confidence: 0.2997
+CRK_028.png | true: Surface damage | predicted: Surface damage | confidence: 0.7168
+CRK_029.png | true: Surface damage | predicted: Opens | confidence: 0.3369
+CRK_030.png | true: Surface damage | predicted: Surface damage | confidence: 0.7272
+CRK_031.png | true: Surface damage | predicted: Contamination | confidence: 0.3518
+LER_001.png | true: LER | predicted: LER | confidence: 0.6365
+LER_002.png | true: LER | predicted: LER | confidence: 0.7247
+LER_003.png | true: LER | predicted: LER | confidence: 0.4137
+LER_004.png | true: LER | predicted: LER | confidence: 0.7159
+LER_005.png | true: LER | predicted: LER | confidence: 0.2961
+LER_006.png | true: LER | predicted: LER | confidence: 0.9790
+LER_007.png | true: LER | predicted: LER | confidence: 0.9685
+LER_008.png | true: LER | predicted: LER | confidence: 0.6619
+LER_009.png | true: LER | predicted: LER | confidence: 0.5183
+LER_010.png | true: LER | predicted: LER | confidence: 0.6234
+LER_011.png | true: LER | predicted: LER | confidence: 0.3648
+LER_012.png | true: LER | predicted: LER | confidence: 0.9975
+LER_013.png | true: LER | predicted: LER | confidence: 0.9896
+LER_014.png | true: LER | predicted: Clean | confidence: 0.2603
+LER_015.png | true: LER | predicted: LER | confidence: 0.4973
+LER_016.png | true: LER | predicted: LER | confidence: 0.9199
+LER_017.png | true: LER | predicted: Opens | confidence: 0.4064
+LER_018.png | true: LER | predicted: LER | confidence: 0.5716
+LER_019.png | true: LER | predicted: CMP | confidence: 0.4183
+LER_020.png | true: LER | predicted: LER | confidence: 0.8574
+LER_021.png | true: LER | predicted: Bridge | confidence: 0.4693
+LER_022.png | true: LER | predicted: LER | confidence: 0.9889
+LER_023.png | true: LER | predicted: LER | confidence: 0.9640
+LER_024.png | true: LER | predicted: LER | confidence: 0.9816
+LER_025.png | true: LER | predicted: LER | confidence: 0.9740
+LER_026.png | true: LER | predicted: Opens | confidence: 0.3844
+LER_027.png | true: LER | predicted: LER | confidence: 0.7021
+LER_028.png | true: LER | predicted: LER | confidence: 0.2410
+LER_029.png | true: LER | predicted: LER | confidence: 0.9505
+LER_030.png | true: LER | predicted: LER | confidence: 0.9854
+OPN_001.png | true: Opens | predicted: Surface damage | confidence: 0.2557
+OPN_002.png | true: Opens | predicted: Residue | confidence: 0.2037
+OPN_003.png | true: Opens | predicted: Clean | confidence: 0.3958
+OPN_004.png | true: Opens | predicted: CMP | confidence: 0.3813
+OPN_005.png | true: Opens | predicted: CMP | confidence: 0.1733
+OPN_006.png | true: Opens | predicted: LER | confidence: 0.3641
+OPN_007.png | true: Opens | predicted: Clean | confidence: 0.4710
+OPN_008.png | true: Opens | predicted: Opens | confidence: 0.3731
+OPN_009.png | true: Opens | predicted: Residue | confidence: 0.2914
+OPN_010.png | true: Opens | predicted: CMP | confidence: 0.4020
+OPN_011.png | true: Opens | predicted: Clean | confidence: 0.3049
+OPN_012.png | true: Opens | predicted: LER | confidence: 0.5052
+OPN_013.png | true: Opens | predicted: LER | confidence: 0.2602
+OPN_014.png | true: Opens | predicted: Bridge | confidence: 0.4891
+OPN_015.png | true: Opens | predicted: LER | confidence: 0.3496
+OPN_016.png | true: Opens | predicted: Bridge | confidence: 0.3314
+OPN_017.png | true: Opens | predicted: Clean | confidence: 0.2096
+OPN_018.png | true: Opens | predicted: LER | confidence: 0.7985
+OPN_019.png | true: Opens | predicted: LER | confidence: 0.3850
+OPN_020.png | true: Opens | predicted: LER | confidence: 0.3757
+OPN_021.png | true: Opens | predicted: Other | confidence: 0.3356
+OPN_022.png | true: Opens | predicted: Residue | confidence: 0.5508
+OPN_023.png | true: Opens | predicted: Bridge | confidence: 0.3321
+OPN_024.png | true: Opens | predicted: Opens | confidence: 0.2877
+OPN_025.png | true: Opens | predicted: Opens | confidence: 0.3144
+OPN_026.png | true: Opens | predicted: LER | confidence: 0.4051
+OPN_027.png | true: Opens | predicted: LER | confidence: 0.3278
+OPN_028.png | true: Opens | predicted: LER | confidence: 0.6702
+OPN_029.png | true: Opens | predicted: Opens | confidence: 0.4307
+OPN_030.png | true: Opens | predicted: LER | confidence: 0.7883
+OTH_001.png | true: Other | predicted: Via | confidence: 0.4697
+OTH_002.png | true: Other | predicted: LER | confidence: 0.9501
+OTH_003.png | true: Other | predicted: LER | confidence: 0.9257
+OTH_004.png | true: Other | predicted: Bridge | confidence: 0.3309
+OTH_005.png | true: Other | predicted: CMP | confidence: 0.2601
+OTH_006.png | true: Other | predicted: Opens | confidence: 0.2599
+OTH_007.png | true: Other | predicted: LER | confidence: 0.4684
+OTH_008.png | true: Other | predicted: LER | confidence: 0.8466
+OTH_009.png | true: Other | predicted: Via | confidence: 0.4867
+OTH_010.png | true: Other | predicted: CMP | confidence: 0.7006
+OTH_011.png | true: Other | predicted: LER | confidence: 0.3676
+OTH_012.png | true: Other | predicted: Residue | confidence: 0.4687
+OTH_013.png | true: Other | predicted: Bridge | confidence: 0.3455
+OTH_014.png | true: Other | predicted: Surface damage | confidence: 0.4318
+OTH_015.png | true: Other | predicted: Surface damage | confidence: 0.2820
+OTH_016.png | true: Other | predicted: LER | confidence: 0.5992
+OTH_017.png | true: Other | predicted: Other | confidence: 0.3034
+OTH_018.png | true: Other | predicted: Surface damage | confidence: 0.3346
+OTH_019.png | true: Other | predicted: Surface damage | confidence: 0.3113
+OTH_020.png | true: Other | predicted: CMP | confidence: 0.8233
+OTH_021.png | true: Other | predicted: Residue | confidence: 0.6901
+OTH_022.png | true: Other | predicted: Surface damage | confidence: 0.2483
+OTH_023.png | true: Other | predicted: Contamination | confidence: 0.5746
+OTH_024.png | true: Other | predicted: Other | confidence: 0.3174
+OTH_025.png | true: Other | predicted: Residue | confidence: 0.2542
+OTH_026.png | true: Other | predicted: Residue | confidence: 0.4199
+OTH_027.png | true: Other | predicted: Surface damage | confidence: 0.2579
+OTH_028.png | true: Other | predicted: Opens | confidence: 0.3996
+OTH_029.png | true: Other | predicted: Surface damage | confidence: 0.2939
+OTH_030.png | true: Other | predicted: CMP | confidence: 0.4932
+OTH_031.png | true: Other | predicted: CMP | confidence: 0.6526
+OTH_032.png | true: Other | predicted: Via | confidence: 0.6617
+OTH_033.png | true: Other | predicted: LER | confidence: 0.3464
+OTH_034.png | true: Other | predicted: CMP | confidence: 0.4628
+OTH_035.png | true: Other | predicted: Surface damage | confidence: 0.5164
+OTH_036.png | true: Other | predicted: Residue | confidence: 0.7088
+OTH_037.png | true: Other | predicted: Clean | confidence: 0.5724
+OTH_038.png | true: Other | predicted: CMP | confidence: 0.5736
+OTH_039.png | true: Other | predicted: Surface damage | confidence: 0.7578
+OTH_040.png | true: Other | predicted: Other | confidence: 0.2705
+OTH_041.png | true: Other | predicted: Via | confidence: 0.3221
+OTH_042.png | true: Other | predicted: CMP | confidence: 0.7278
+OTH_043.png | true: Other | predicted: LER | confidence: 0.4741
+OTH_044.png | true: Other | predicted: Surface damage | confidence: 0.4859
+OTH_045.png | true: Other | predicted: CMP | confidence: 0.2396
+OTH_046.png | true: Other | predicted: CMP | confidence: 0.3633
+OTH_047.png | true: Other | predicted: Residue | confidence: 0.8794
+OTH_048.png | true: Other | predicted: CMP | confidence: 0.2297
+OTH_049.png | true: Other | predicted: Bridge | confidence: 0.3129
+OTH_050.png | true: Other | predicted: Opens | confidence: 0.2705
+PRT_001.png | true: Residue | predicted: Residue | confidence: 0.6609
+PRT_002.png | true: Residue | predicted: Residue | confidence: 0.5681
+PRT_003.png | true: Residue | predicted: Contamination | confidence: 0.2420
+PRT_004.png | true: Residue | predicted: Clean | confidence: 0.3725
+PRT_005.png | true: Residue | predicted: LER | confidence: 0.3946
+PRT_006.png | true: Residue | predicted: CMP | confidence: 0.3678
+PRT_007.png | true: Residue | predicted: Residue | confidence: 0.4641
+PRT_008.png | true: Residue | predicted: CMP | confidence: 0.3187
+PRT_009.png | true: Residue | predicted: CMP | confidence: 0.5566
+PRT_010.png | true: Residue | predicted: CMP | confidence: 0.4408
+PRT_011.png | true: Residue | predicted: Residue | confidence: 0.4123
+PRT_012.png | true: Residue | predicted: Via | confidence: 0.1904
+PRT_013.png | true: Residue | predicted: Residue | confidence: 0.3211
+PRT_014.png | true: Residue | predicted: Residue | confidence: 0.6630
+PRT_015.png | true: Residue | predicted: Residue | confidence: 0.5719
+PRT_016.png | true: Residue | predicted: Contamination | confidence: 0.4454
+PRT_017.png | true: Residue | predicted: Residue | confidence: 0.7724
+PRT_018.png | true: Residue | predicted: Residue | confidence: 0.7095
+PRT_019.png | true: Residue | predicted: Residue | confidence: 0.4028
+PRT_020.png | true: Residue | predicted: CMP | confidence: 0.6702
+PRT_021.png | true: Residue | predicted: CMP | confidence: 0.4077
+PRT_022.png | true: Residue | predicted: Opens | confidence: 0.2624
+PRT_023.png | true: Residue | predicted: Surface damage | confidence: 0.2295
+PRT_024.png | true: Residue | predicted: Opens | confidence: 0.4673
+PRT_025.png | true: Residue | predicted: Surface damage | confidence: 0.2783
+PRT_026.png | true: Residue | predicted: LER | confidence: 0.2380
+PRT_027.png | true: Residue | predicted: Residue | confidence: 0.5500
+PRT_028.png | true: Residue | predicted: Other | confidence: 0.5506
+PRT_029.png | true: Residue | predicted: LER | confidence: 0.4919
+PRT_030.png | true: Residue | predicted: CMP | confidence: 0.5912
+VIA_001.png | true: Via | predicted: Other | confidence: 0.3217
+VIA_002.png | true: Via | predicted: Via | confidence: 0.9258
+VIA_003.png | true: Via | predicted: Via | confidence: 0.5476
+VIA_004.png | true: Via | predicted: Opens | confidence: 0.3680
+VIA_005.png | true: Via | predicted: Opens | confidence: 0.3680
+VIA_006.png | true: Via | predicted: Via | confidence: 0.2990
+VIA_007.png | true: Via | predicted: Via | confidence: 0.9488
+VIA_008.png | true: Via | predicted: Via | confidence: 0.4091
+VIA_009.png | true: Via | predicted: LER | confidence: 0.4113
+VIA_010.png | true: Via | predicted: CMP | confidence: 0.3449
+VIA_011.png | true: Via | predicted: Via | confidence: 0.2452
+VIA_012.png | true: Via | predicted: CMP | confidence: 0.7431
+VIA_013.png | true: Via | predicted: Via | confidence: 0.2237
+VIA_014.png | true: Via | predicted: Surface damage | confidence: 0.5593
+VIA_015.png | true: Via | predicted: CMP | confidence: 0.4243
+VIA_016.png | true: Via | predicted: Surface damage | confidence: 0.3163
+VIA_017.png | true: Via | predicted: Via | confidence: 0.3760
+VIA_018.png | true: Via | predicted: Via | confidence: 0.7653
+VIA_019.png | true: Via | predicted: CMP | confidence: 0.3523
+VIA_020.png | true: Via | predicted: Via | confidence: 0.2274
+VIA_021.png | true: Via | predicted: Via | confidence: 0.2714
+VIA_022.png | true: Via | predicted: Via | confidence: 0.6750
+VIA_023.png | true: Via | predicted: Opens | confidence: 0.3030
+VIA_024.png | true: Via | predicted: CMP | confidence: 0.4687
+VIA_025.png | true: Via | predicted: Surface damage | confidence: 0.3527
+VIA_026.png | true: Via | predicted: CMP | confidence: 0.5565
+VIA_027.png | true: Via | predicted: Via | confidence: 0.6108
+VIA_028.png | true: Via | predicted: Via | confidence: 0.3510
+VIA_029.png | true: Via | predicted: Surface damage | confidence: 0.6395
+VIA_030.png | true: Via | predicted: Via | confidence: 0.5094
