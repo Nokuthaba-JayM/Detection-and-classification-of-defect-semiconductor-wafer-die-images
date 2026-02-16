@@ -1,0 +1,11 @@
+Evaluation started: 2026-02-16 13:54:55.904546
+Classes: ['Bridge', 'CMP', 'Clean', 'Containation', 'LER', 'Opens', 'Other', 'Residue', 'Surface damage', 'Via']
+Loading trained model...
+Running inference...
+Prediction log saved
+
+--- Evaluation Results ---
+Accuracy  : 0.7844611528822055
+Precision : 0.7883137986694506
+Recall    : 0.7844611528822055
+Evaluation finished: 2026-02-16 13:55:02.210413
